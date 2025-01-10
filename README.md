@@ -8,14 +8,10 @@ This script checks the first 1000 ports of a target IP address to find out which
 - Identifies open ports and displays them.
 - Simple and beginner-friendly code.
 
-## **Requirements**
-- Python 3.7 or above.
-- No additional libraries required (uses Python's built-in `socket` library).
-
 ## **Setup and Usage**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/packetscanner.git
+   git clone https://github.com/shootout19/packetscanner.git
    cd packetscanner
 2. Open the script (`packetscanner.py`) and replace the `target_IP` variable with the IP address you want to scan
 3. Run the script:
